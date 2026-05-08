@@ -1,0 +1,4 @@
+No.	Quantity	Comment	Designator	Footprint	Value	Manufacturer Part	Manufacturer	Supplier Part	Supplier
+1	1	10K	R1	R0603	10K				
+2	1	ARDUINO_NANO	U1	COMM-TH_ARDUINO_NANO		ARDUINO_NANO		C9900017879	LCSC
+3	1	DHT22	U2	SENSOR-TH_HAIGU_DHT22		DHT22	HAIGU(广州海谷)	C2880291	LCSC
